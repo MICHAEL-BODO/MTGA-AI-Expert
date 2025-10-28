@@ -1,0 +1,15 @@
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+sqlalchemy==2.0.25
+watchdog==3.0.0
+requests==2.31.0
+beautifulsoup4==4.12.3
+pandas==2.2.0
+numpy==1.26.3
+scikit-learn==1.4.0
+networkx==3.2.1
+mlxtend==0.23.1
+python-dotenv==1.0.0
+pydantic==2.5.3
+loguru==0.7.2
+aiohttp==3.9.1
